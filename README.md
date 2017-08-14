@@ -1,2 +1,2 @@
-# hosts
+hosts that suck
 # hosts
