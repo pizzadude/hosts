@@ -1,2 +1,46 @@
+#some tech meme
 0.0.0.0 functionalclam.com
+
+#moezilla
 0.0.0.0 incoming.telemetry.mozilla.org
+
+#4chinz botnet
+0.0.0.0 n0-r98d2.amgload.net
+0.0.0.0 n1-r98d2.amgload.net
+0.0.0.0 n2-r98d2.amgload.net
+0.0.0.0 n3-r98d2.amgload.net
+0.0.0.0 n4-r98d2.amgload.net
+0.0.0.0 kz1d.piguiqproxy.com
+0.0.0.0 kz1c.piguiqproxy.com
+0.0.0.0 kz6d.piguiqproxy.com
+0.0.0.0 kz6c.piguiqproxy.com
+0.0.0.0 kz9c.piguiqproxy.com
+0.0.0.0 kz9d.piguiqproxy.com
+0.0.0.0 n0-r99d2.piguiqproxy.com
+0.0.0.0 n3-r99d2.piguiqproxy.com
+0.0.0.0 n6-r99d2.piguiqproxy.com
+0.0.0.0 n7-r99d2.piguiqproxy.com
+0.0.0.0 xk1n.amgload.net
+0.0.0.0 xk6n.amgload.net
+0.0.0.0 xk9n.amgload.net
+0.0.0.0 xk9o.amgload.net
+0.0.0.0 xk1o.amgload.net
+0.0.0.0 xk2o.amgload.net
+0.0.0.0 xk3o.amgload.net
+0.0.0.0 xk6o.amgload.net
+0.0.0.0 zx6s.smcheck.org
+0.0.0.0 zx1s.smcheck.org
+0.0.0.0 utraffic.engine.adglare.net 
+0.0.0.0 smcheck.org
+0.0.0.0 piguiqproxy.com
+0.0.0.0 amgload.net
+0.0.0.0 adglare.net
+
+#tf2 ads
+0.0.0.0 motd.pinion.gg
+0.0.0.0 motdgd.com
+0.0.0.0 sourcerev.com
+0.0.0.0 googletagservices.com
+0.0.0.0 adwords.google.lloymlincs.com
+0.0.0.0 googleads.g.doubleclick.net
+0.0.0.0 adservices.google.com
